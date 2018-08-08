@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<svg width="240" height="110" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+ <g class="layer">
+  <title>Layer 1</title>
+  <text fill="#007fff" font-family="Sans-serif" font-size="8" font-style="normal" font-weight="normal" id="svg_3" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" transform="matrix(8.80823 0 0 8.80823 -667.39 -2100.61)" x="89.363975" xml:space="preserve" y="249.27253">MGEG</text>
+  <text fill="#00007f" font-family="Sans-serif" font-size="8" font-style="normal" font-weight="normal" id="svg_4" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" transform="matrix(8.80823 0 0 8.80823 -667.39 -2100.61)" x="89.922892" xml:space="preserve" y="249.498261">MGEG</text>
+  <polygon cx="456.5" cy="88.5" fill="#00007f" id="svg_5" orient="point" point="5" points="456.5 88.5 456.5 88.5 456.5 88.5 456.5 88.5 456.5 88.5 456.5 88.5 456.5 88.5 456.5 88.5 456.5 88.5 456.5 88.5 456.5 88.5 456.5 88.5" r="0" r2="0" shape="star" stroke="#000000" stroke-width="0" strokeWidth="0" strokecolor="#000000" transform="rotate(86.4237 456.5 88.5)"/>
+  <polygon cx="152.5" cy="50.5" fill="#ff007f" id="svg_6" orient="point" point="5" points="181.434 3.97519 185.203 14.8177 196.68 15.0516 187.532 21.9865 190.856 32.9738 181.434 26.4172 172.012 32.9738 175.336 21.9865 166.189 15.0516 177.665 14.8177 181.434 3.97519 185.203 14.8177" r="33.159547" r2="13.263819" shape="star" stroke="#000000" stroke-width="0" strokeWidth="0" strokecolor="#000000" transform="rotate(16.7519 181.434 18.4745)"/>
+  <polygon cx="149.5" cy="48.5" fill="#ff007f" id="svg_7" orient="point" point="5" r="0" r2="0" shape="star" strokeWidth="0" strokecolor="#000000"/>
+  <polygon cx="175.5" cy="87.5" fill="#00ffff" id="svg_9" orient="point" point="5" points="79.8016 14.5908 83.2379 24.4767 93.7019 24.69 85.3617 31.013 88.3925 41.0308 79.8016 35.0527 71.2107 41.0308 74.2415 31.013 65.9013 24.69 76.3653 24.4767 79.8016 14.5908 83.2379 24.4767" r="27.848798" r2="11.139519" shape="star" stroke="#000000" stroke-width="0" strokeWidth="0" strokecolor="#000000" transform="rotate(-34.1424 79.8016 27.8108)"/>
+ </g>
+</svg>
